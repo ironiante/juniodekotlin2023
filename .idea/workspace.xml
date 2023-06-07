@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="registro estudiante">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/CompraProducto.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemplo 3 comprar en establecimiento">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/ejemploAvanzado1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CompraProductoKt">
+  <component name="RunManager" selected="Kotlin.EjemploAvanzado1Kt">
     <configuration name="CompraProductoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.CompraProductoKt" />
       <module name="juniodekotlin2023" />
@@ -58,6 +58,13 @@
     </configuration>
     <configuration name="Ejemplo1_tiposDeDatosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.Ejemplo1_tiposDeDatosKt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploAvanzado1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.EjemploAvanzado1Kt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EjemploAvanzado1Kt" />
         <item itemvalue="Kotlin.CompraProductoKt" />
         <item itemvalue="Kotlin.ResgistroEstudianteKt" />
         <item itemvalue="Kotlin.Ejemplo1_tiposDeDatosKt" />
@@ -95,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686093842297</updated>
       <workItem from="1686093845406" duration="855000" />
-      <workItem from="1686146045035" duration="9194000" />
+      <workItem from="1686146045035" duration="12811000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -111,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686159310532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ejemplo 3 comprar en establecimiento">
+      <created>1686160162763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686160162763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +147,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="tipo de datos y ejercicio 1" />
     <MESSAGE value="registro estudiante" />
-    <option name="LAST_COMMIT_MESSAGE" value="registro estudiante" />
+    <MESSAGE value="ejemplo 3 comprar en establecimiento" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo 3 comprar en establecimiento" />
   </component>
 </project>
