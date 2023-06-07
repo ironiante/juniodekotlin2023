@@ -25,7 +25,7 @@ fun main (){
     // calcular el promedio de edad de todas las personas
     val promedioEdad:Double = people.map { it.age }.average()
     // imprimir el promedio de edad
-    println("promedio de dad : $promedioEdad")
+    println("promedio de edad : $promedioEdad")
 
 
 
