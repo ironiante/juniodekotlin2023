@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juniodekotlin2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/Ejemplo1_tiposDeDatos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/variablesYTiposDedatos.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="tipo de datos y ejercicio 1">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/ResgistroEstudiante.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +48,16 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ejemplo1_tiposDeDatosKt">
+  <component name="RunManager" selected="Kotlin.ResgistroEstudianteKt">
     <configuration name="Ejemplo1_tiposDeDatosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.Ejemplo1_tiposDeDatosKt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResgistroEstudianteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.ResgistroEstudianteKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ResgistroEstudianteKt" />
         <item itemvalue="Kotlin.Ejemplo1_tiposDeDatosKt" />
         <item itemvalue="Kotlin.VariablesYTiposDedatosKt" />
       </list>
@@ -86,8 +87,16 @@
       <option name="presentableId" value="Default" />
       <updated>1686093842297</updated>
       <workItem from="1686093845406" duration="855000" />
-      <workItem from="1686146045035" duration="5125000" />
+      <workItem from="1686146045035" duration="8443000" />
     </task>
+    <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
+      <created>1686155736877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686155736877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tipo de datos y ejercicio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipo de datos y ejercicio 1" />
   </component>
 </project>
