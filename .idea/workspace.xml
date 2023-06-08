@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="que es una dataclass">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nulll/null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafetyOperadorElvis/elvis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variablesyTiposDeDatos/ejemploDataClass.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="null">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/entradaPorTeclado/Teclado.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +48,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.EjemploDataClassKt">
+  <component name="RunManager" selected="Kotlin.TecladoKt">
     <configuration name="CompraProductoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.CompraProductoKt" />
-      <module name="juniodekotlin2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejemplo1_tiposDeDatosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.Ejemplo1_tiposDeDatosKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TecladoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.TecladoKt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TecladoKt" />
         <item itemvalue="Kotlin.EjemploDataClassKt" />
         <item itemvalue="Kotlin.EjemploAvanzado1Kt" />
         <item itemvalue="Kotlin.CompraProductoKt" />
         <item itemvalue="Kotlin.ResgistroEstudianteKt" />
-        <item itemvalue="Kotlin.Ejemplo1_tiposDeDatosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +104,8 @@
       <updated>1686093842297</updated>
       <workItem from="1686093845406" duration="855000" />
       <workItem from="1686146045035" duration="12895000" />
-      <workItem from="1686178963910" duration="10441000" />
+      <workItem from="1686178963910" duration="10773000" />
+      <workItem from="1686230809096" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686181190873</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="null">
+      <created>1686190776041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686190776041</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +172,7 @@
     <MESSAGE value="registro estudiante" />
     <MESSAGE value="ejemplo 3 comprar en establecimiento" />
     <MESSAGE value="que es una dataclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="que es una dataclass" />
+    <MESSAGE value="null" />
+    <option name="LAST_COMMIT_MESSAGE" value="null" />
   </component>
 </project>
