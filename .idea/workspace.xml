@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ingresar datos por consola programa perimetro">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/entradaPorTeclado/ejemplo3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/entradaPorTeclado/ejemplo4.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejercicio 4">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/ejemplo 1 if.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/if.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/whenSinArgumento.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,21 +51,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Ejemplo4Kt">
-    <configuration name="Ejemplo2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.Ejemplo2Kt" />
-      <module name="juniodekotlin2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejemplo3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.Ejemplo3Kt" />
-      <module name="juniodekotlin2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ejemplo_1_ifKt">
     <configuration name="Ejemplo4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.Ejemplo4Kt" />
       <module name="juniodekotlin2023" />
@@ -71,15 +59,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variablesyTiposDeDatos.EjemploDataClassKt" />
+    <configuration name="Ejemplo_1_ifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.Ejemplo_1_ifKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TecladoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.TecladoKt" />
+    <configuration name="IfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.IfKt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.WhenKt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenSinArgumentoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.WhenSinArgumentoKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejemplo_1_ifKt" />
+        <item itemvalue="Kotlin.WhenSinArgumentoKt" />
+        <item itemvalue="Kotlin.WhenKt" />
+        <item itemvalue="Kotlin.IfKt" />
         <item itemvalue="Kotlin.Ejemplo4Kt" />
-        <item itemvalue="Kotlin.Ejemplo3Kt" />
-        <item itemvalue="Kotlin.Ejemplo2Kt" />
-        <item itemvalue="Kotlin.TecladoKt" />
-        <item itemvalue="Kotlin.EjemploDataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +108,8 @@
       <workItem from="1686093845406" duration="855000" />
       <workItem from="1686146045035" duration="12895000" />
       <workItem from="1686178963910" duration="10773000" />
-      <workItem from="1686230809096" duration="5590000" />
+      <workItem from="1686230809096" duration="6243000" />
+      <workItem from="1686314240513" duration="3581000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -164,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686234070816</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ejercicio 4">
+      <created>1686239115650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686239115650</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +200,7 @@
     <MESSAGE value="null" />
     <MESSAGE value="ingresar datos por consola" />
     <MESSAGE value="ingresar datos por consola programa perimetro" />
-    <option name="LAST_COMMIT_MESSAGE" value="ingresar datos por consola programa perimetro" />
+    <MESSAGE value="ejercicio 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 4" />
   </component>
 </project>
