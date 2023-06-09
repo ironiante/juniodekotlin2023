@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejercicio 4">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/ejemplo 1 if.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/if.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/when.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/whenSinArgumento.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemplo 1 if">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/ejemploIfCompuesta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +106,7 @@
       <workItem from="1686146045035" duration="12895000" />
       <workItem from="1686178963910" duration="10773000" />
       <workItem from="1686230809096" duration="6243000" />
-      <workItem from="1686314240513" duration="3581000" />
+      <workItem from="1686314240513" duration="6688000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686239115650</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ejemplo 1 if">
+      <created>1686319811249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686319811249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +205,7 @@
     <MESSAGE value="ingresar datos por consola" />
     <MESSAGE value="ingresar datos por consola programa perimetro" />
     <MESSAGE value="ejercicio 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 4" />
+    <MESSAGE value="ejemplo 1 if" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo 1 if" />
   </component>
 </project>
