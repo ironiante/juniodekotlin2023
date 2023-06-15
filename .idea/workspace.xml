@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemploif2">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sentenciasCondionales/ejemplomejorado.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemplo con try catch">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bucles/Buclefor1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bucles/ejemplo2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +49,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Ejemplo_1_ifKt">
-    <configuration name="Ejemplo4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entradaPorTeclado.Ejemplo4Kt" />
+  <component name="RunManager" selected="Kotlin.Ejemplo2Kt">
+    <configuration name="Buclefor1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bucles.Buclefor1Kt" />
+      <module name="juniodekotlin2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bucles.Ejemplo2Kt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +66,6 @@
     </configuration>
     <configuration name="Ejemplo_1_ifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.Ejemplo_1_ifKt" />
-      <module name="juniodekotlin2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.IfKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejemplo2Kt" />
+        <item itemvalue="Kotlin.Buclefor1Kt" />
         <item itemvalue="Kotlin.Ejemplo_1_ifKt" />
         <item itemvalue="Kotlin.WhenSinArgumentoKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.IfKt" />
-        <item itemvalue="Kotlin.Ejemplo4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,9 @@
       <workItem from="1686146045035" duration="12895000" />
       <workItem from="1686178963910" duration="10773000" />
       <workItem from="1686230809096" duration="6243000" />
-      <workItem from="1686314240513" duration="9839000" />
+      <workItem from="1686314240513" duration="10027000" />
+      <workItem from="1686582294802" duration="65000" />
+      <workItem from="1686834884405" duration="6128000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -185,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686323327514</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ejemplo con try catch">
+      <created>1686328369967</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686328369967</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +224,7 @@
     <MESSAGE value="ejercicio 4" />
     <MESSAGE value="ejemplo 1 if" />
     <MESSAGE value="ejemploif2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejemploif2" />
+    <MESSAGE value="ejemplo con try catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo con try catch" />
   </component>
 </project>
