@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemplo con try catch">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bucles/Buclefor1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bucles/ejemplo2.kt" afterDir="false" />
+    <list default="true" id="3328efce-2060-4615-b17b-5cebd831ce9b" name="Changes" comment="ejemplo con try catch for">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bucles/ForRcorriendoArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Ejemplo2Kt">
+  <component name="RunManager" selected="Kotlin.ForRcorriendoArrayKt">
     <configuration name="Buclefor1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bucles.Buclefor1Kt" />
       <module name="juniodekotlin2023" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sentenciasCondionales.WhenKt" />
+    <configuration name="ForRcorriendoArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bucles.ForRcorriendoArrayKt" />
       <module name="juniodekotlin2023" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForRcorriendoArrayKt" />
         <item itemvalue="Kotlin.Ejemplo2Kt" />
         <item itemvalue="Kotlin.Buclefor1Kt" />
         <item itemvalue="Kotlin.Ejemplo_1_ifKt" />
         <item itemvalue="Kotlin.WhenSinArgumentoKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +108,7 @@
       <workItem from="1686230809096" duration="6243000" />
       <workItem from="1686314240513" duration="10027000" />
       <workItem from="1686582294802" duration="65000" />
-      <workItem from="1686834884405" duration="6128000" />
+      <workItem from="1686834884405" duration="9311000" />
     </task>
     <task id="LOCAL-00001" summary="tipo de datos y ejercicio 1">
       <created>1686155736877</created>
@@ -195,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686328369967</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ejemplo con try catch for">
+      <created>1686855935203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686855935203</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +231,7 @@
     <MESSAGE value="ejemplo 1 if" />
     <MESSAGE value="ejemploif2" />
     <MESSAGE value="ejemplo con try catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejemplo con try catch" />
+    <MESSAGE value="ejemplo con try catch for" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo con try catch for" />
   </component>
 </project>
